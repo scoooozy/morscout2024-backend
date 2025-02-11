@@ -49,3 +49,5 @@ buttons/
 1. Check if `serviceAccountKey.json` is present
 2. Verify Firebase Rules allow read/write
 3. Change PORT in .env if 8000 is taken
+bash
+work in progress btw
